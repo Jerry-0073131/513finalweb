@@ -1,0 +1,351 @@
+[
+    {
+        "id": 1,
+        "name": "iPhone 15 Pro",
+        "description": "Latest Apple smartphone with advanced camera system",
+        "price": 999.00,
+        "discount": 10.00,
+        "category": "Smartphones",
+        "image_url": "iphone15pro.jpg",
+        "stock_quantity": 50,
+        "specifications": {
+            "storage": "128GB",
+            "color": "Titanium",
+            "screen": "6.1 inch"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 2,
+        "name": "MacBook Air M2",
+        "description": "Powerful laptop with Apple M2 chip",
+        "price": 1199.00,
+        "discount": 5.00,
+        "category": "Laptops",
+        "image_url": "macbookairm2.jpg",
+        "stock_quantity": 30,
+        "specifications": {
+            "storage": "256GB",
+            "memory": "8GB",
+            "screen": "13.6 inch"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 3,
+        "name": "Samsung Galaxy S24",
+        "description": "Android flagship with AI features",
+        "price": 849.00,
+        "discount": 15.00,
+        "category": "Smartphones",
+        "image_url": "galaxys24.jpg",
+        "stock_quantity": 40,
+        "specifications": {
+            "storage": "256GB",
+            "color": "Graphite",
+            "screen": "6.2 inch"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 4,
+        "name": "Sony WH-1000XM5",
+        "description": "Noise cancelling wireless headphones",
+        "price": 399.00,
+        "discount": 0.00,
+        "category": "Audio",
+        "image_url": "sonyheadphones.jpg",
+        "stock_quantity": 25,
+        "specifications": {
+            "battery": "30 hours",
+            "connectivity": "Bluetooth 5.2",
+            "weight": "250g"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 5,
+        "name": "iPad Air M1",
+        "description": "Powerful tablet with Apple M1 chip and Liquid Retina display",
+        "price": 599.00,
+        "discount": 8.00,
+        "category": "Tablets",
+        "image_url": "ipadairm1.jpg",
+        "stock_quantity": 35,
+        "specifications": {
+            "storage": "64GB",
+            "screen": "10.9 inch",
+            "color": "Space Gray"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 6,
+        "name": "AirPods Pro 2",
+        "description": "Wireless earbuds with active noise cancellation",
+        "price": 249.00,
+        "discount": 12.00,
+        "category": "Audio",
+        "image_url": "airpodspro2.jpg",
+        "stock_quantity": 60,
+        "specifications": {
+            "battery": "6 hours",
+            "case_battery": "30 hours",
+            "connectivity": "Bluetooth 5.3"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 7,
+        "name": "Samsung Galaxy Tab S9",
+        "description": "Premium Android tablet with S Pen included",
+        "price": 799.00,
+        "discount": 5.00,
+        "category": "Tablets",
+        "image_url": "galaxytabs9.jpg",
+        "stock_quantity": 20,
+        "specifications": {
+            "storage": "128GB",
+            "screen": "11 inch",
+            "memory": "8GB"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 8,
+        "name": "Apple Watch Series 9",
+        "description": "Advanced smartwatch with health monitoring features",
+        "price": 399.00,
+        "discount": 0.00,
+        "category": "Accessories",
+        "image_url": "applewatch9.jpg",
+        "stock_quantity": 45,
+        "specifications": {
+            "size": "45mm",
+            "connectivity": "GPS + Cellular",
+            "battery": "18 hours"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 9,
+        "name": "Dell XPS 13",
+        "description": "Ultra-thin laptop with InfinityEdge display and powerful performance",
+        "price": 999.00,
+        "discount": 7.00,
+        "category": "Laptops",
+        "image_url": "dellxps13.jpg",
+        "stock_quantity": 28,
+        "specifications": {
+            "storage": "512GB SSD",
+            "memory": "16GB",
+            "screen": "13.4 inch",
+            "processor": "Intel Core i7"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 10,
+        "name": "Google Pixel 8 Pro",
+        "description": "Google's flagship smartphone with advanced AI camera capabilities",
+        "price": 899.00,
+        "discount": 10.00,
+        "category": "Smartphones",
+        "image_url": "pixel8pro.jpg",
+        "stock_quantity": 32,
+        "specifications": {
+            "storage": "128GB",
+            "camera": "Triple rear camera system",
+            "screen": "6.7 inch",
+            "processor": "Google Tensor G3"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+
+
+
+
+   {
+        "id": 101,
+        "name": "MacBook Pro 14\"",
+        "description": "Powerful laptop for professionals",
+        "price": 1999.99,
+        "discount": 100.00,
+        "category": "Laptops",
+        "image_url": "MacBook Pro 14.jpg",
+        "stock_quantity": 30,
+        "specifications": {
+            "Processor": "M2 Pro",
+            "RAM": "16GB",
+            "Storage": "512GB"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 102,
+        "name": "iPad Air",
+        "description": "Versatile tablet for work and entertainment",
+        "price": 599.99,
+        "discount": 50.00,
+        "category": "Tablets",
+        "image_url": "iPad Air.jpg",
+        "stock_quantity": 40,
+        "specifications": {
+            "Storage": "256GB",
+            "Cellular": "No"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 103,
+        "name": "Sony WH-1000XM5",
+        "description": "Premium noise-cancelling headphones",
+        "price": 349.99,
+        "discount": 20.00,
+        "category": "Audio",
+        "image_url": "Sony WH-1000XM5.jpg",
+        "stock_quantity": 60,
+        "specifications": {
+            "Battery Life": "30 hours",
+            "Wireless": "Yes"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 104,
+        "name": "Samsung Galaxy S23",
+        "description": "Android flagship smartphone",
+        "price": 849.99,
+        "discount": 0.00,
+        "category": "Smartphones",
+        "image_url": "Samsung Galaxy S23.jpg",
+        "stock_quantity": 45,
+        "specifications": {
+            "Storage": "256GB",
+            "Color": "Phantom Black"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 105,
+        "name": "Dell XPS 13",
+        "description": "Ultrabook with InfinityEdge display",
+        "price": 1199.99,
+        "discount": 150.00,
+        "category": "Laptops",
+        "image_url": "Dell XPS 13.jpg",
+        "stock_quantity": 25,
+        "specifications": {
+            "Processor": "i7",
+            "RAM": "16GB",
+            "Storage": "1TB"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 106,
+        "name": "Apple Watch Series 8",
+        "description": "Advanced health and fitness tracker",
+        "price": 399.99,
+        "discount": 30.00,
+        "category": "Wearables",
+        "image_url": "Apple Watch Series 8.jpg",
+        "stock_quantity": 70,
+        "specifications": {
+            "Size": "45mm",
+            "GPS": "Yes"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 107,
+        "name": "Bose QuietComfort 45",
+        "description": "Noise-cancelling headphones",
+        "price": 329.99,
+        "discount": 25.00,
+        "category": "Audio",
+        "image_url": "Bose QuietComfort 45.jpg",
+        "stock_quantity": 55,
+        "specifications": {
+            "Battery Life": "24 hours",
+            "Noise Cancellation": "Adaptive"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 108,
+        "name": "Google Pixel 7 Pro",
+        "description": "Google flagship with best camera",
+        "price": 899.99,
+        "discount": 0.00,
+        "category": "Smartphones",
+        "image_url": "Google Pixel 7 Pro.jpg",
+        "stock_quantity": 35,
+        "specifications": {
+            "Storage": "128GB",
+            "Camera": "Triple-lens"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 109,
+        "name": "Microsoft Surface Laptop 5",
+        "description": "Premium Windows laptop",
+        "price": 1299.99,
+        "discount": 100.00,
+        "category": "Laptops",
+        "image_url": "Microsoft Surface Laptop 5.jpg",
+        "stock_quantity": 20,
+        "specifications": {
+            "Processor": "i5",
+            "RAM": "8GB",
+            "Storage": "256GB"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 110,
+        "name": "AirPods Pro",
+        "description": "Wireless earbuds with active noise cancellation",
+        "price": 249.99,
+        "discount": 10.00,
+        "category": "Audio",
+        "image_url": "AirPods Pro.jpg",
+        "stock_quantity": 80,
+        "specifications": {
+            "Battery Life": "24 hours",
+            "Wireless Charging": "Yes"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 111,
+        "name": "Samsung Galaxy Tab S8",
+        "description": "Android tablet with S Pen included",
+        "price": 699.99,
+        "discount": 50.00,
+        "category": "Tablets",
+        "image_url": "Samsung Galaxy Tab S8.jpg",
+        "stock_quantity": 35,
+        "specifications": {
+            "Storage": "128GB",
+            "Screen Size": "11 inch"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    },
+    {
+        "id": 112,
+        "name": "Logitech MX Master 3",
+        "description": "Wireless mouse for productivity",
+        "price": 99.99,
+        "discount": 10.00,
+        "category": "Accessories",
+        "image_url": "Logitech MX Master 3.jpg",
+        "stock_quantity": 100,
+        "specifications": {
+            "Connectivity": "Bluetooth",
+            "Battery": "70 days"
+        },
+        "created_at": "2024-01-01 10:00:00"
+    }
+]
